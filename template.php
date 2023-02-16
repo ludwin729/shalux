@@ -129,10 +129,6 @@ $pagina = isset($pagina) ? $pagina : "";
 												</li>
 												<li class="menu-item-has-children">
 													<a href="clientes.php">Clientes</a>
-													<ul class="sub-menu">
-														<li><a href="projects.html">Projects</a></li>
-														<li><a href="projects-details.html">Projects Details</a></li>
-													</ul>
 												</li>
 												<li class="menu-item-has-children">
 													<a href="blog.php">Blog</a>
@@ -423,7 +419,8 @@ $pagina = isset($pagina) ? $pagina : "";
 	<script src="assets/js/contact.form.js"></script>
 	<!-- main js -->
 	<script src="assets/js/main.js"></script>
-
+	<script type="text/javascript">var limitPerPage =8; //Nro.elementos por pagina</script>   
+	<script src="assets/js/paginacion.js"></script> 
 
 </html>
 <body>

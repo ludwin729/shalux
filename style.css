@@ -571,6 +571,55 @@ textarea:focus,
 button:focus {
   outline: none !important;
 }
+/*-- Pagination --*/
+.pagination {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
+  .pagination li {
+    margin: 5px;
+    color: #a3a3a3; }
+    .pagination li a {
+      font-size: 14px;
+      line-height: 24px;
+      font-weight: 600;
+      color: #444444;
+      width: 30px;
+      height: 30px;
+      text-align: center;
+      line-height: 28px;
+      border: 1px solid transparent;
+      border-radius: 50px; }
+      .pagination li a i {
+        display: block;
+        line-height: 24px; }
+    .pagination li.active a {
+      border-color: #444444;
+      color: #202020;
+      font-weight: 700; }
+    .pagination li:first-child {
+      margin-right: 20px; }
+      .pagination li:first-child a {
+        color: #202020;
+        width: 50px; }
+        .pagination li:first-child a i {
+          float: left;
+          margin-right: 10px; }
+    .pagination li:last-child {
+      margin-left: 20px; }
+      .pagination li:last-child a {
+        width: 50px;
+        color: #202020; }
+        .pagination li:last-child a i {
+          float: right;
+          margin-left: 10px; }
+
+/*--
 .pagination-area {
   display: inline-block;
 }
@@ -4888,8 +4937,8 @@ Video CSS
   transition: all ease .3s;
 }
 .rs-services.services-style1 .services-item .services-images .main-img {
-  width: 100%;
-  height: auto;
+  width: 250px;
+  height: 264px;
   transition: all 0.5s;
 }
 .rs-services.services-style1 .services-item .services-images .services-icon {
@@ -4911,7 +4960,7 @@ Video CSS
 }
 .rs-services.services-style1 .services-item .services-text {
   background: #ffffff;
-  padding: 35px 35px 25px 35px;
+  padding: 0px 35px 25px 35px;
 }
 .rs-services.services-style1 .services-item .services-text .services-title .title {
   font-size: 22px;
