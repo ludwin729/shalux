@@ -419,8 +419,8 @@ $pagina = isset($pagina) ? $pagina : "";
 	<script src="assets/js/contact.form.js"></script>
 	<!-- main js -->
 	<script src="assets/js/main.js"></script>
-	<script type="text/javascript">var limitPerPage =8; //Nro.elementos por pagina</script>   
-	<script src="assets/js/paginacion.js"></script> 
+	<!--<script type="text/javascript">var limitPerPage =8; //Nro.elementos por pagina</script>   
+	<script src="assets/js/paginacion.js"></script--> 
 
 </html>
 <body>

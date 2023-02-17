@@ -4969,8 +4969,14 @@ Video CSS
   padding: 0px 35px 25px 35px;
 }
 .rs-services.services-style1 .services-item .services-text .services-title .title {
-  font-size: 22px;
+  font-size: 18px;
   line-height: 32px;
+  font-weight: 700;
+  margin: 0 0 10px;
+}
+.rs-services.services-style1 .services-item .services-text .services-title .title2 {
+  font-size: 15px;
+  line-height: 17px;
   font-weight: 700;
   margin: 0 0 10px;
 }
