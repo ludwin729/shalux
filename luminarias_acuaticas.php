@@ -12,21 +12,22 @@ ob_start();
         <div class="container">
             <div class="breadcrumbs-inner">
                 <h1 class="page-title">
-                    Clientes
+                Luminarias LED Acuáticas
                 </h1>
                 <div class="description">
-                    <p> Aquí podras conocer a algunos de nuestros clientes</p>
+                    <p> Aquí podras ver algunos de nuestros modelos de Luminarias LED Acuáticas</p>
                 </div>
             </div>
         </div>
     </div>
     <!-- Breadcrumbs End -->
 
-    <!-- Services Section Start -->
+
+    <!-- Product Section Start -->
     <div class="rs-services services-style1 services-inner-style1 pt-50 pb-50 ">
         <div class="sec-title text-center">
             <h2 class="title">
-                Nuestras Luminarias Acuaticas
+                Nuestras Luminarias de Acuáticas
             </h2>
         </div>
         <!-- Product Section Start -->
@@ -36,7 +37,7 @@ ob_start();
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_ind/highbay.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
@@ -57,7 +58,7 @@ ob_start();
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_ind/DOWNLIGHT/1.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
@@ -78,280 +79,7 @@ ob_start();
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-md-6 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
-                            </div>
-                            <div class="services-text">
-                                <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
-                                </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
-                                <div class="services-btn">
-                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
-                                        <span class="btn-text">
-                                            Cotizar
-                                        </span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 col-md-6 contenido" item>
-                        <div class="services-item">
-                            <div class="services-images">
-                                <img class="main-img" src="assets/images/services/main-home/main-img/1.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_ind/DOWNLIGHT/2.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
@@ -369,23 +97,107 @@ ob_start();
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div id="paginador" class="row mt-30">
-                <div class="col">
-
-                    <nav>
-                        <ul class="pagination justify-content-center pagination-sm">
-                        </ul>
-                    </nav>
-
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ind/DOWNLIGHT/3.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/1.jpg"
+                                    alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/2.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-md-6 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/3.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-        <!-- Product Section End -->
-    </div>
 
+        <div id="paginador" class="row mt-30">
+            <div class="col">
+
+                <nav>
+                    <ul class="pagination justify-content-center pagination-sm">
+                    </ul>
+                </nav>
+
+            </div>
+        </div>
+    </div>
+    <!-- Product Section End -->
     <!-- Services Section End -->
 </section>
 

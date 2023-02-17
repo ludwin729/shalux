@@ -9,10 +9,10 @@ ob_start();
     <div class="container">
         <div class="breadcrumbs-inner">
             <h1 class="page-title">
-                Clientes
+            Luminarias LED de Exterior
             </h1>
             <div class="description">
-                <p> Aquí podras conocer a algunos de nuestros clientes</p>
+                <p> Aquí podras ver algunos de nuestros modelos de Luminarias LED de Exterior</p>
             </div>
         </div>
     </div>
@@ -433,6 +433,258 @@ ob_start();
                         <div class="services-item">
                             <div class="services-images">
                                 <img class="main-img" src="assets/images/productos/lum_ext/dominus-400w.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/1.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/2.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/3.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-md-6 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/4.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning 18</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/5.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/6.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/7.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/8.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/9.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/10.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/11.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                </div>
+                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
+                                    6500°K<br>Lúmenes:
+                                    940lm</p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ext/ltech/12.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">

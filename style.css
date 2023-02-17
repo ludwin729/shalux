@@ -4941,6 +4941,12 @@ Video CSS
   height: 264px;
   transition: all 0.5s;
 }
+.img-clientes{
+  width: 100%;
+  height: auto;
+  transition: all 0.5s;
+}
+
 .rs-services.services-style1 .services-item .services-images .services-icon {
   background: #fc6805;
   right: 12px;

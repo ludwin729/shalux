@@ -33,56 +33,56 @@ ob_start();
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/1.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/1.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/2.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/2.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/3.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/3.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/4.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/4.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 md-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/5.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/5.jpg" alt="">
 								</div>
 							</div>
 						</div>
                         <div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/6.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/6.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/7.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/7.jpg" alt="">
 								</div>
 							</div>
 						</div>
                         <div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/8.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/8.jpg" alt="">
 								</div>
 							</div>
 						</div>     
@@ -94,56 +94,56 @@ ob_start();
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/9.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/9.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/10.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/10.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/11.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/11.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/12.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/12.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 md-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/13.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/13.jpg" alt="">
 								</div>
 							</div>
 						</div>
                         <div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/14.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/14.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/15.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/15.jpg" alt="">
 								</div>
 							</div>
 						</div>
                         <div class="col-lg-3 col-md-6 sm-mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/16.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/16.jpg" alt="">
 								</div>
 							</div>
 						</div>     
@@ -155,28 +155,28 @@ ob_start();
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/17.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/17.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/18.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/18.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/19.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/19.jpg" alt="">
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-6 mb-30">
 							<div class="services-item">
 								<div class="services-images">
-									<img class="main-img" src="assets/images/brands/20.jpg" alt="">
+									<img class="img-clientes" src="assets/images/brands/20.jpg" alt="">
 								</div>
 							</div>
 						</div>    
