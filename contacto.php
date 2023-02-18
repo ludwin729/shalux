@@ -47,7 +47,7 @@ ob_start();
 	  								<div class="address-content">
 	  									<span class="label">Visítanos</span>
                                           <a class="des" href="https://goo.gl/maps/Hsp2rWWvgftvwXfv7" target="_blank">
-                                          Av. Guillermo Dansey #351 - Oficina #322
+                                          Av. Guillermo Dansey Nº 331- Ofic. 213 -
 Cercado de Lima
                                         </a>
 	  								</div>

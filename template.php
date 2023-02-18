@@ -45,6 +45,16 @@ $pagina = isset($pagina) ? $pagina : "";
     <!-- This stylesheet dynamically changed from style.less -->
     <!-- responsive css -->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
+    <meta name="keywords" content="Shalux, luminaria Peru, peru, iluminacion led, led, tecnologia led, expertos en iluminacion, certificacion, ingenieria, eficiencia, energetica, asesoría, iluminacion industrial, iluminacion, luminarias publicas, lamparas, ampolletas, tubos, aplique, iluminacion, focos, fluorescentes, empresas de iluminacion, ahorro energia, led via publica, luminarias publicas led, foco led industrial, luminarias led alumbrado publico peru, luminarias peru, lamparas industriales peru, luminarias led peru, campana ufo , foco led embutido,foco led sobrepuesto, foco sobrepuesto led, focos led sobrepuestos, campanas led, proyector de area, focos riel, foco riel led, proyector de area led, focos sobrepuestos, panel led, ilumina led, foco embutido led,
+    lamparas led en peru,tienda de iluminacion lima,iluminación led interior,productos led,tiendas iluminacion lima,aplique de muro,lamparas led peru,luminarias led peru,luminarias peru,luminaria colgante led,ampolleta tipo ,foco riel led,todo led peru,led peru,iluminacion led peru,cinta led,pantalla led,ampolleta filamento led,cinta led,iluminacion peru,riel,perfil de aluminio,peru led,iluminacion lima,focos riel,iluminacion led interior,tienda lamparas lima,ampolleta retro,tiendas de iluminacion en peru,luminaria publica led,proyector de area led,
+    proyectores de area led,ampolletas led ,foco led sobrepuesto,canoa led,foco led para riel,foco para riel,
+    ampolletas dimeables,lamparas colgantes lima,downlight led,farol exterior,venta de luminarias led,foco led, sobrepuesto,plafon,cinta led exterior,pantallas led publicitarias,pantallas led peru,cintas led peru,luces led lima,proyector de área,led tienda,luminarias led interior,venta de iluminacion led,apliques de muro,luces led cinta,modulo led,led via publica,led emergencia,solares,led solar,postes solares,proyector area led,pantallas lamparas,led lima,kit emergencia led,lamparas led,modulo led,lampara dicroico,todo led,cinta led peru,campana industrial,pantallas led publicidad,luces led interior,foco led interior,kit de emergencia,led ofertas,lamparas estilo,industrial peru,led studio,ampolleta vela,perfil led,luminaria,tiendas de lamparas en peru,luces led peru,aplique exterior,plafon led,lamparas modernas peru,luces led de cobre,pantalla led exterior,lamparas peru,lampara led exterior,ampolleta de colores,venta de pantallas led en peru,foco led solar exterior peru,led panel light peru,luminaria publica,foco led solar exterior peru,aplique led interior,focos led colgantes,equipo hermetico led,lampara,pantallas para lamparas peru,pantallas de lamparas peru,focos led exterior peru,focos led dimeables,pantalla led precio,luces solares ,panel led peru,pantallas para lamparas,lampara colgante philips,
+    led publica,lampara colgante moderna,focos sobrepuestos,equipo de emergencia led,foco para piscina led,
+    luminarias led exterior,cintas de luces led,campana ufo,luminaria solar led,lampara de muro,ampolletas,señaletica led,lamparas lima,tubos led peru,pantallas de lamparas en lima,lamparas iluminación led exterior,
+    iluminacion oficinas,donde comprar lamparas en lima,downlight peru,terrazas con luces,riel,focos terraza,
+    oferta proyector,pantallas led para publicidad,luminaria led,luces led indoor,lamparas lima peru,luminaria solar,
+    tubo led colores,lampara colgante cobre,iluminación led cocina,casas de iluminacion en lima de peru, aplique led exterior, foco led dimeable, aplique exterior led, venta luces led, venta de luces led,lamparas industriales peru,
+    tipos de ampolletas led, led exterior, lamparas solares exterior"/>
 
 </head>
 
@@ -70,7 +80,7 @@ $pagina = isset($pagina) ? $pagina : "";
                                 <li>
                                     <a href="https://goo.gl/maps/Hsp2rWWvgftvwXfv7" target="_blank">
                                         <i class="fi fi-rr-map-marker-home"></i>
-                                        Av. Guillermo Dansey Nº 351- Tda 322</a>
+                                        Av. Guillermo Dansey Nº 331- Ofic. 213</a>
                                 </li>
                             </ul>
                         </div>
@@ -211,7 +221,7 @@ $pagina = isset($pagina) ? $pagina : "";
                             </div>
                             <div class="info-content">
                                 <h4 class="title">Dirección</h4>
-                                <em>Av. Guillermo Dansey Nº 351- Tda 322</em>
+                                <em>Av. Guillermo Dansey Nº 331- Ofic. 213</em>
                             </div>
                         </div>
                         <div class="address-list">
@@ -264,7 +274,7 @@ $pagina = isset($pagina) ? $pagina : "";
                                     <li>
                                         <i class="fi fi-rr-map-marker-home"></i>
                                         <div class="desc"> <a href="https://goo.gl/maps/Hsp2rWWvgftvwXfv7"
-                                                target="_blank">Av. Guillermo Dansey Nº 351- Tda 322<br>
+                                                target="_blank">Av. Guillermo Dansey Nº 331- Ofic. 213<br>
                                                 Cercado de Lima</a>
                                         </div>
                                     </li>

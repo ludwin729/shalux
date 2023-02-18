@@ -403,6 +403,12 @@
         line-height: 28px;
         margin: 0 0 30px 0;
     }
+    .rs-banner.banner-main-home .content-wrap .blog-description {
+        font-size: 16px;
+        line-height: 28px;
+        margin: 0 0 30px 0;
+    }
+
     .rs-banner.banner-main-home .banner-animate .circle-animate.big img {
         max-width: 240px;
     }

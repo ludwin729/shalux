@@ -8,10 +8,10 @@ ob_start();
 <section>
 
 			<!-- Breadcrumbs Start -->
-			<div class="rs-breadcrumbs img10">
+			<div class="rs-breadcrumbs img17">
 			    <div class="container">
 			        <div class="breadcrumbs-inner">
-			            <h1 class="page-title">
+			            <h1 class="blog-title">
 			                Nosotros
 			            </h1>
 			            <div class="description">
@@ -209,7 +209,7 @@ Nuestros productos destacan por su calidad, durabilidad y eficiencia. Esto nos p
                                     <div class="address-text">
                                     	<span class="label">Oficinas</span>
                                        	<span class="des">
-										   Av. Guillermo Dansey #351 <br>  Oficina #322 Cercado de Lima.				            
+										   Av. Guillermo Dansey #331 <br>  Oficina #213 Cercado de Lima			            
                                        </span>
                                     </div>
                                 </div>

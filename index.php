@@ -21,6 +21,8 @@ ob_start();
             <div id="nivoSlider" class="slides">
                 <img src="assets/images/slider/style2/h1-1.jpg" alt="" title="#slide-1" />
                 <img src="assets/images/slider/style2/h1-2.jpg" alt="" title="#slide-2" />
+                <img src="assets/images/ilumin_piscinas.jpg" alt="" title="#slide-3" />
+                <img src="assets/images/iluminacion-carreteras-1177-1.png" alt="" title="#slide-4" />
             </div>
             <!-- Slide 1 -->
             <div id="slide-1" class="slider-direction">
@@ -39,6 +41,26 @@ ob_start();
                     <span class="sl-subtitle">REFLECTORES PARA</span>
                     <h1 class="sl-title">ESTADIOS Y CANCHAS</h1>
                     <h3 class="sl-title-small">DEPORTIVAS</h3>
+                    <div class="slider-bottom">
+                        <a class="readon slide-con" href="contacto.php">Contactanos</a>
+                    </div>
+                </div>
+            </div>
+            <div id="slide-3" class="slider-direction">
+                <div class="content-part">
+                    <span class="sl-title-small">REFLECTORES PARA</span>
+                    <h1 class="sl-title">TU INSTALACIÓN</h1>
+                    <h3 class="sl-subtitle ">ACUÁTICA</h3>
+                    <div class="slider-bottom">
+                        <a class="readon slide-con" href="contacto.php">Contactanos</a>
+                    </div>
+                </div>
+            </div>
+            <div id="slide-4" class="slider-direction">
+                <div class="content-part">
+                    <span class="sl-subtitle">LUMINARIAS PARA</span>
+                    <h1 class="sl-title">ILUMIACIÓN DE CALLES</h1>
+                    <h3 class="sl-title-small">Y EXTERIORES</h3>
                     <div class="slider-bottom">
                         <a class="readon slide-con" href="contacto.php">Contactanos</a>
                     </div>

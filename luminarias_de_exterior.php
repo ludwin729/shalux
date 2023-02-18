@@ -5,7 +5,7 @@ $page_title = "Shalux Lighting | Lo mejor en iluminación";
 ob_start();
 ?>
 <!-- Breadcrumbs Start -->
-<div class="rs-breadcrumbs img1">
+<div class="rs-breadcrumbs img11">
     <div class="container">
         <div class="breadcrumbs-inner">
             <h1 class="page-title">

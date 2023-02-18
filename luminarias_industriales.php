@@ -8,10 +8,10 @@ ob_start();
 
 <section>
     <!-- Breadcrumbs Start -->
-    <div class="rs-breadcrumbs img1">
+    <div class="rs-breadcrumbs img16">
         <div class="container">
             <div class="breadcrumbs-inner">
-                <h1 class="page-title">
+                <h1 class="blog-title">
                     Luminarias LED Industriales
                 </h1>
                 <div class="description">

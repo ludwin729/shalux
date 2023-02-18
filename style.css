@@ -3065,6 +3065,7 @@ body .search-modal .close:hover {
   line-height: 27px;
   font-weight: 500;
   color: #ffffff;
+  text-shadow: 0px 3px 20px #000000;
   margin: 24px 0px 0px 0px;
 }
 .rs-breadcrumbs .breadcrumbs-inner .single-posts-meta li {
@@ -3136,6 +3137,27 @@ body .search-modal .close:hover {
 .rs-breadcrumbs.img13 {
   background: url(assets/images/bg/counter-bg3.jpg);
 }
+.rs-breadcrumbs.img14 {
+  background: url(assets/images/ilumin_piscinas.jpg);
+}
+.rs-breadcrumbs.img15 {
+  background: url(assets/images/solar-street.jpg);
+}
+.rs-breadcrumbs.img16 {
+  background: url(assets/images/iluminacion-led-de-almacen.png);
+}
+.rs-breadcrumbs.img17 {
+  background: url(assets/images/iluminacion-carreteras-1177-1.jpg);
+}
+.rs-breadcrumbs.img18 {
+  background: url(assets/images/2411077434_58d2d7bd31_b.jpg);
+}
+.rs-breadcrumbs.img19 {
+  background: url(assets/images/blog/post/zonas-del-exterior3.jpg);
+}
+
+
+
 
 /* ------------------------------------
 	07. Banner Section CSS
@@ -3610,6 +3632,7 @@ body .search-modal .close:hover {
   font-weight: 700;
   text-transform: uppercase;
   color: #fc6805;
+  text-shadow: 0px 3px 20px #000000;
   margin: 0px 0px 15px 0px;
   display: block;
 }
@@ -3618,6 +3641,7 @@ body .search-modal .close:hover {
   font-weight: 900;
   line-height: 100px;
   color: #ffffff;
+  text-shadow: 0px 3px 20px #000000;
   text-transform: uppercase;
   margin: 0 0 15px;
 }
@@ -3626,6 +3650,7 @@ body .search-modal .close:hover {
   font-weight: 700;
   line-height: 58px;
   color: #ffffff;
+  text-shadow: 0px 3px 20px #000000;
   text-transform: uppercase;
   margin: 0 0 30px;
 }

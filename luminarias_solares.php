@@ -7,7 +7,7 @@ ob_start();
 
 <section>
     <!-- Breadcrumbs Start -->
-    <div class="rs-breadcrumbs img1">
+    <div class="rs-breadcrumbs img15">
         <div class="container">
             <div class="breadcrumbs-inner">
                 <h1 class="page-title">
