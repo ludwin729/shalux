@@ -56,7 +56,7 @@ ob_start();
                     <div class="sec-title mb-40 md-mb-25">
                         <span class="sub-text green-color"> Luminarias Destacadas</span>
                         <h2 class="title">
-                            Más de 20 años ofriciendo la mejor iluminación
+                            Más de 15 años ofriciendo la mejor iluminación
                         </h2>
                     </div>
                 </div>
@@ -124,13 +124,12 @@ ob_start();
                             <img src="assets/images/services/style3/3.png" alt="Services">
                         </div>
                         <div class="services-text">
-                            <h3 class="title">Luminaria antiexplosiva</h3>
+                            <h3 class="title">Luminaria acuática</h3>
                             <p class="services-txt">
-                                Nuestras luminarias están diseñadas para ser seguras en entornos donde hay riesgo de
-                                explosiones.
+                                Nuestras luminarias están diseñadas para su uso en cualquier instalación acuática.
                             </p>
                             <div class="services-btn">
-                                <a href="falta.html">
+                                <a href="luminarias_acuaticas.php">
                                     <span class="btn-text">
                                         Leer más
                                     </span>

@@ -305,7 +305,7 @@ $pagina = isset($pagina) ? $pagina : "";
                         <p class="widget-desc white-color">Únase a nuestra lista de suscriptores para obtener las
                             últimas noticias y ofertas especiales</p>
                         <p>
-                            <input type="email" name="email" placeholder="Su dirección de correo electrónico"
+                            <input type="email" name="email_address" id="email_address" placeholder="Su dirección de correo electrónico"
                                 required="">
                             <input type="submit" value="Suscríbete Ahora">
                         </p>

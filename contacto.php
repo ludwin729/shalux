@@ -80,21 +80,27 @@ Cercado de Lima
 			                		<h2 class="title">Escríbanos</h2>
 			                	</div>
 			                    <div id="form-messages"></div>
-			                    <form id="contact-form" method="post" action="https://devsdesign.net/products/html/clenia/mailer.php">
+			                    <form id="contact-form" method="post" action="http://shaluxlighting.com/php/mail.php">
 			                        <fieldset>
 			                            <div class="row">
 			                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-			                                    <input class="from-control" type="text" id="name" name="name" placeholder="Nombre" required="">
+			                                    <input class="from-control" type="text" id="first_name" name="first_name" placeholder="Nombre" required="">
+			                                </div> 
+											<div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="rut" name="rut" placeholder="RUC" required="">
+			                                </div>
+											<div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="empresa" name="empresa" placeholder="Empresa" required="">
+			                                </div>
+											<div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="ciudad" name="ciudad" placeholder="Ciudad" required="">
 			                                </div> 
 			                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-			                                    <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
+			                                    <input class="from-control" type="email" id="email_address" name="email_address" placeholder="E-Mail" required="">
 			                                </div>   
 			                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-			                                    <input class="from-control" type="text" id="phone" name="phone" placeholder="Teléfono" required="">
+			                                    <input class="from-control" type="text" id="phone_number" name="phone_number" placeholder="Teléfono" required="">
 			                                </div>   
-			                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-			                                    <input class="from-control" type="text" id="phone" name="city" placeholder="Ciudad" required="">
-			                                </div> 
 			                                <div class="col-lg-12 mb-30">
 			                                    <textarea class="from-control" id="message" name="message" placeholder="Su mensaje aquí" required=""></textarea>
 			                                </div>

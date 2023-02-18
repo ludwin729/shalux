@@ -8,11 +8,11 @@ ob_start();
 
 <section>
     <!-- Breadcrumbs Start -->
-    <div class="rs-breadcrumbs img1">
+    <div class="rs-breadcrumbs img10">
         <div class="container">
             <div class="breadcrumbs-inner">
                 <h1 class="page-title">
-                Luminarias LED Acuáticas
+                    Luminarias LED Acuáticas
                 </h1>
                 <div class="description">
                     <p> Aquí podras ver algunos de nuestros modelos de Luminarias LED Acuáticas</p>
@@ -37,15 +37,19 @@ ob_start();
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/highbay.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_acu/1.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Spot LED Piso 3W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lúmenes: 330lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC9-20V 190mA <br>
+                                    T° Color: 3000 /6500°K/ RGB<br>
+                                    Clase 1 division 2
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -58,15 +62,19 @@ ob_start();
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/DOWNLIGHT/1.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_acu/2.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Spot LED Piso 5W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lúmenes: 550lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC9-20V 190mA <br>
+                                    T° Color: 3000 /6500°K<br>
+                                    Clase 1 division 2
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -79,15 +87,19 @@ ob_start();
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/DOWNLIGHT/2.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_acu/3.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning 18</h3>
+                                    <h3 class="title">Spot LED Piso 7W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lúmenes: 770lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC12-28V 230mA <br>
+                                    T° Color: 3000 /6500°K<br>
+                                    Clase 1 division 2
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -100,15 +112,19 @@ ob_start();
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/DOWNLIGHT/3.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_acu/4.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Spot LED Piso 9W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lúmenes: 990lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC27-36V 240mA <br>
+                                    T° Color: 3000 /6500°K/ RGB<br>
+                                    Clase 1 division 2
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -121,16 +137,19 @@ ob_start();
                     <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/1.jpg"
-                                    alt="">
+                                <img class="main-img" src="assets/images/productos/lum_acu/5.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Spot LED Piso 15W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lúmenes: 1650lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC45-72V 260mA <br>
+                                    T° Color: 3000 /6500°K<br>
+                                    Clase 1 division 2
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -143,15 +162,44 @@ ob_start();
                     <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/2.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_acu/6.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Spot LED Piso 18W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lúmenes: 1980lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC45-72V 260mA <br>
+                                    T° Color: 3000 /6500°K/ RGB<br>
+                                    Clase 1 division 2
+                                </p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 sm-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_acu/8.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Spot LED Piso Guia 3W</h3>
+                                </div>
+                                <p class="services-txt">
+                                    Lúmenes: 390lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC3-7V 280mA <br>
+                                    T° Color: Verde<br>
+                                    Clase 1 division 2
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -164,15 +212,140 @@ ob_start();
                     <div class="col-lg-3 col-md-6 col-md-6 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/3.jpg" alt="">
+                                <img class="main-img" src="assets/images/productos/lum_acu/7.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Spot LED Piso 24W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lúmenes: 2640lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC60-80V 109mA <br>
+                                    T° Color: 3000 /6500°K/ RGB<br>
+                                    Clase 1 division 2
+                                </p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_acu/9.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Spot LED Piso Guia 6W</h3>
+                                </div>
+                                <p class="services-txt">
+                                    Lúmenes: 780lm <br>
+                                    Entrada: AC85-275V<br>
+                                    Salida: DC3-7V 280mA <br>
+                                    T° Color: Verde<br>
+
+                                </p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_acu/10.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Spot LED Piscina 10W</h3>
+                                </div>
+                                <p class="services-txt">
+                                    Watt: 10W <br>
+                                    Voltaje: AC12V <br>
+                                    T° Color: RGB<br>
+                                    IP: 69
+                                </p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_acu/11.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Spot LED Piscina 22W</h3>
+                                </div>
+                                <p class="services-txt">
+                                    Watt: 22W <br>
+                                    Voltaje: AC12V <br>
+                                    T° Color: RGB<br>
+                                    IP: 69
+                                </p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_acu/12.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">Adosable Sumerjible</h3>
+                                </div>
+                                <p class="services-txt">
+                                    Watt: 25W <br>
+                                    Voltaje: AC12V <br>
+                                    T° Color: RGB<br>
+                                    IP: 69 
+                                </p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_acu/13.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                <h3 class="title">Adosable Sumerjible de 36W</h3>
+                                </div>
+                                <p class="services-txt">
+                                    Watt: 36W <br>
+                                    Voltaje: AC12V <br>
+                                    T° Color: RGB<br>
+                                    IP: 69
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">

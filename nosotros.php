@@ -15,7 +15,7 @@ ob_start();
 			                Nosotros
 			            </h1>
 			            <div class="description">
-                    		<p>En ShaLux Lighting llevamos más de 20 años como proveedores de iluminación LED.<br>
+                    		<p>En ShaLux Lighting llevamos más de 15 años como proveedores de iluminación LED.<br>
 							La profesionalidad y calidad de nuestros productos es lo que nos define.</p>
                     	</div>                       
 			        </div>
@@ -37,7 +37,7 @@ ob_start();
 								   		</div>
 								   		<div class="services-content">
 							   			   <h2 class="services-desc">
-					Empresa de Iluminación líder desde 2001                       
+					Empresa de Iluminación líder desde 2007                      
 							   			   </h2>
 								   		</div>
 								   </div>
@@ -60,7 +60,7 @@ ob_start();
 Nuestros productos destacan por su calidad, durabilidad y eficiencia. Esto nos permite cumplir con las exigencias de nuestros clientes y que estos obtengan una satisfacción total al realizar sus proyectos.								</div>
 
 								<div class="btn-part mt-45">
-									<a class="readon about" href="contact.html">
+									<a class="readon about" href="contacto.php">
 										<span class="btn-text">Contáctenos</span>
 									</a>
 								</div>
@@ -156,26 +156,31 @@ Nuestros productos destacan por su calidad, durabilidad y eficiencia. Esto nos p
 			                    </div>
 	                            <div class="contact-wrap">
 	                                <div id="form-messages"></div>
-	                                <form id="contact-form" method="post" action="https://devsdesign.net/products/html/clenia/mailer.php">
+	                                <form id="contact-form" method="post" action="http://shaluxlighting.com/php/mail.php">
 	                                    <fieldset>
-	                                        <div class="row">
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="name" name="name" placeholder="Nombre" required="">
-	                                            </div> 
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="email" name="email" placeholder="Correo" required="">
-	                                            </div>   
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="phone" name="phone" placeholder="teléfono" required="">
-	                                            </div>   
-	                                            <div class="col-lg-6 col-md-6 col-sm-6 mb-30">
-	                                                <input class="from-control" type="text" id="Website" name="subject" placeholder="Empresa" required="">
-	                                            </div>
-	                                      
-	                                            <div class="col-lg-12 mb-35">
-	                                                <textarea class="from-control" id="message" name="message" placeholder="Tu mensaje" required=""></textarea>
-	                                            </div>
-	                                        </div>
+			                            <div class="row">
+			                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="first_name" name="first_name" placeholder="Nombre" required="">
+			                                </div> 
+											<div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="rut" name="rut" placeholder="RUC" required="">
+			                                </div>
+											<div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="empresa" name="empresa" placeholder="Empresa" required="">
+			                                </div>
+											<div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="ciudad" name="ciudad" placeholder="Ciudad" required="">
+			                                </div> 
+			                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="email" id="email_address" name="email_address" placeholder="E-Mail" required="">
+			                                </div>   
+			                                <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
+			                                    <input class="from-control" type="text" id="phone_number" name="phone_number" placeholder="Teléfono" required="">
+			                                </div>   
+			                                <div class="col-lg-12 mb-30">
+			                                    <textarea class="from-control" id="message" name="message" placeholder="Su mensaje aquí" required=""></textarea>
+			                                </div>
+			                            </div>
 	                                        <div class="btn-part">                                            
 	                                            <div class="form-group mb-0">
 	                                            	<p class="submit-btn submit-btn2">
@@ -202,7 +207,7 @@ Nuestros productos destacan por su calidad, durabilidad y eficiencia. Esto nos p
                                         <i class="fi fi-rr-map-marker-home"></i>
                                     </div>
                                     <div class="address-text">
-                                    	<span class="label">USA Office</span>
+                                    	<span class="label">Oficinas</span>
                                        	<span class="des">
 										   Av. Guillermo Dansey #351 <br>  Oficina #322 Cercado de Lima.				            
                                        </span>
