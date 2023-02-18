@@ -1070,7 +1070,7 @@ blockquote:before {
   border-radius: 0;
   opacity: 1;
   visibility: visible;
-  background: #ffd100;
+  background: #fc6805;
 }
 .readon.slide-con {
   padding: 14px 30px;
@@ -1102,7 +1102,7 @@ blockquote:before {
   opacity: 1;
   width: 20px;
   height: 20px;
-  background: #ffd100;
+  background: #fc6805;
   border-radius: 20px 0 0;
 }
 .readon.view-slide:hover span {
@@ -1314,7 +1314,7 @@ blockquote:before {
   opacity: 1;
   width: 20px;
   height: 20px;
-  background: #ffd100;
+  background: #fc6805;
   border-radius: 20px 0 0;
 }
 .submit-btn.submit-btn2:hover input {
@@ -2152,7 +2152,7 @@ blockquote:before {
   font-family: Poppins;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:hover {
-  color: #ffd100;
+  color: #fc6805;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li.menu-item-has-children > a {
   padding-right: 17px;
@@ -2175,7 +2175,7 @@ blockquote:before {
   content: "-";
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li.current-menu-item > a {
-  color: #ffd100 !important;
+  color: #fc6805 !important;
 }
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul.sub-menu {
   background: #ffffff;
@@ -2220,7 +2220,7 @@ blockquote:before {
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul li.active a,
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul li.current-menu-item > a,
 .full-width-header .rs-header .menu-area .main-menu .rs-menu ul li.current-menu-item > a:before {
-  color: #ffd100 !important;
+  color: #fc6805 !important;
 }
 .full-width-header .rs-header .menu-area.sticky {
   background: #fff;
@@ -3132,6 +3132,9 @@ body .search-modal .close:hover {
 }
 .rs-breadcrumbs.img12 {
   background: url("assets/images/blog/post/iluminacion-sala.jpeg");
+}
+.rs-breadcrumbs.img13 {
+  background: url(assets/images/bg/counter-bg3.jpg);
 }
 
 /* ------------------------------------
@@ -4557,7 +4560,7 @@ Video CSS
   position: absolute;
   left: 59%;
   top: -25px;
-  color: #FFD1004D;
+  color: #fc68054D;
   font-size: 60px;
   font-weight: 700;
   z-index: -11;
@@ -4600,7 +4603,7 @@ Video CSS
 .rs-process.process-style1.process-about-style .all-process-item .process-item .number-area {
   left: 60%;
   top: 4px;
-  color: #FFD1004D;
+  color: #fc68054D;
   font-size: 60px;
   font-weight: 700;
 }
@@ -7230,7 +7233,7 @@ Video CSS
   background-repeat: no-repeat;
 }
 .rs-footer.footer-style1.footer-style2 {
-  background: #012c08;
+  background: #071d45;
 }
 .rs-footer.footer-style1.footer-style2 .footer-top p ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */

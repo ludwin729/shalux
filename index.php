@@ -84,7 +84,7 @@ ob_start();
 
                             </p>
                             <div class="services-btn">
-                                <a href="covid-19-cleaning.html">
+                                <a href="luminarias_de_exterior.php">
                                     <span class="btn-text">
                                         Leer más
                                     </span>
@@ -107,7 +107,7 @@ ob_start();
                                 trabajo o oficina.
                             </p>
                             <div class="services-btn">
-                                <a href="covid-19-cleaning.html">
+                                <a href="luminarias_de_interior.php">
                                     <span class="btn-text">
                                         Leer más
                                     </span>
@@ -130,7 +130,7 @@ ob_start();
                                 explosiones.
                             </p>
                             <div class="services-btn">
-                                <a href="covid-19-cleaning.html">
+                                <a href="falta.html">
                                     <span class="btn-text">
                                         Leer más
                                     </span>
@@ -370,7 +370,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="covid-19-cleaning.html">ALUMBRADO PÚBLICO</a>
+                                        <h3 class="title">ALUMBRADO PÚBLICO
                                         </h3>
                                     </div>
                                     <div class="front-desc-part">
@@ -384,8 +384,8 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="covid-19-cleaning.html">ALUMBRADO
-                                                PÚBLICO</a></h3>
+                                        <h3 class="back-title">ALUMBRADO
+                                                PÚBLICO</h3>
                                     </div>
                                     <div class="back-desc-part">
                                         <p class="back-desc">Ofrecemos servicios de asesoría en iluminación de vía
@@ -408,7 +408,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="kitchen-cleaning.html">TUNELES</a></h3>
+                                        <h3 class="title">TUNELES</h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>La línea HBT te ofrece múltiples opciones en ángulos de iluminación para
@@ -421,7 +421,7 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="kitchen-cleaning.html">TUNELES</a></h3>
+                                        <h3 class="back-title">TUNELES</h3>
                                     </div>
                                     <div class="back-desc-part">
                                         <p class="back-desc">
@@ -448,7 +448,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="office-cleaning.html">ALMACENES</a></h3>
+                                        <h3 class="title">ALMACENES</h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
@@ -462,7 +462,7 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="office-cleaning.html">ALMACENES</a></h3>
+                                        <h3 class="back-title">ALMACENES</h3>
                                     </div>
                                     <div class="back-desc-part">
                                         <p class="back-desc">Nuestra línea de campanas LED UFO incluye opciones que
@@ -489,7 +489,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="window-cleaning.html">OFICINAS</a></h3>
+                                        <h3 class="title">OFICINAS</h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
@@ -503,7 +503,7 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="window-cleaning.html">OFICINAS</a>
+                                        <h3 class="back-title">OFICINAS
                                         </h3>
                                     </div>
                                     <div class="back-desc-part">
@@ -529,7 +529,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="carpet-cleaning.html">CANCHAS DEPORTIVAS</a></h3>
+                                        <h3 class="title">CANCHAS DEPORTIVAS</h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
@@ -543,7 +543,7 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="carpet-cleaning.html">CANCHAS DEPORTIVAS</a>
+                                        <h3 class="back-title">CANCHAS DEPORTIVAS
                                         </h3>
                                     </div>
                                     <div class="back-desc-part">
@@ -569,7 +569,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="toilet-cleaning.html">ESTACIONES DE SERVICIO </a>
+                                        <h3 class="title">ESTACIONES DE SERVICIO 
                                         </h3>
                                     </div>
                                     <div class="front-desc-part">
@@ -584,8 +584,8 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="toilet-cleaning.html">ESTACIONES DE
-                                                SERVICIO</a>
+                                        <h3 class="back-title">ESTACIONES DE
+                                                SERVICIO
                                         </h3>
                                     </div>
                                     <div class="back-desc-part">
@@ -612,7 +612,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="window-cleaning.html">HOTELES</a></h3>
+                                        <h3 class="title">HOTELES</h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
@@ -626,7 +626,7 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="window-cleaning.html">OFICINAS</a>
+                                        <h3 class="back-title">HOTELES
                                         </h3>
                                     </div>
                                     <div class="back-desc-part">
@@ -652,7 +652,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h2 class="title"><a href="carpet-cleaning.html">PROYECTO ARQUITECTONICO</a>
+                                        <h2 class="title">PROYECTO ARQUITECTONICO
                                         </h2>
                                     </div>
                                     <div class="front-desc-part">
@@ -667,8 +667,8 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="carpet-cleaning.html">PROYECTO
-                                                ARQUITECTONICO</a>
+                                        <h3 class="back-title">PROYECTO
+                                                ARQUITECTONICO
                                         </h3>
                                     </div>
                                     <div class="back-desc-part">
@@ -695,7 +695,7 @@ ob_start();
                                         </div>
                                     </div>
                                     <div class="front-title-part">
-                                        <h3 class="title"><a href="toilet-cleaning.html">RETAIL</a></h3>
+                                        <h3 class="title">RETAIL</h3>
                                     </div>
                                     <div class="front-desc-part">
                                         <p>
@@ -709,7 +709,7 @@ ob_start();
                             <div class="back-front">
                                 <div class="back-front-content">
                                     <div class="back-title-part">
-                                        <h3 class="back-title"><a href="toilet-cleaning.html">RETAIL</a>
+                                        <h3 class="back-title">RETAIL
                                         </h3>
                                     </div>
                                     <div class="back-desc-part">
@@ -840,9 +840,9 @@ ob_start();
                 data-md-device-nav="false" data-md-device-dots="false">
                 <div class="blog-item">
                     <div class="image-wrap">
-                        <a href="single-post.html"><img src="assets/images/blog/style1/1.jpg" alt=""></a>
+                        <a href="luz-led-blanca-calida-fria-o-neutra.php"><img src="assets/images/blog/style1/1.jpg" alt=""></a>
                         <ul class="post-categories">
-                            <li><a href="blog-single.html">Shalux</a></li>
+                            <li><a href="luz-led-blanca-calida-fria-o-neutra.php">Shalux</a></li>
                         </ul>
                     </div>
                     <div class="blog-content">
@@ -850,10 +850,10 @@ ob_start();
                             <li class="admin"><i class="fi fi-rr-calendar"></i>27 Enero 2022</li>
                             <li class="date"><i class="fi  fi-rr-user"></i>Roy Reyes</li>
                         </ul>
-                        <h3 class="blog-title"><a href="single-post.html">¿Que tipo de luz LED utilizar Fría, Calida o
+                        <h3 class="blog-title"><a href="luz-led-blanca-calida-fria-o-neutra.php">¿Que tipo de luz LED utilizar Fría, Calida o
                                 Neutra? </a></h3>
                         <div class="blog-btn">
-                            <a href="single-post.html">
+                            <a href="luz-led-blanca-calida-fria-o-neutra.php">
                                 <span class="btn-text">
                                     Leer más
                                 </span>
@@ -864,9 +864,9 @@ ob_start();
                 </div>
                 <div class="blog-item">
                     <div class="image-wrap">
-                        <a href="single-post.html"><img src="assets/images/blog/style1/2.jpg" alt=""></a>
+                        <a href="iluminacion-led-solucion-ahorro-energetico.php"><img src="assets/images/blog/style1/2.jpg" alt=""></a>
                         <ul class="post-categories">
-                            <li><a href="blog-single.html">Shalux</a></li>
+                            <li><a href="iluminacion-led-solucion-ahorro-energetico.php">Shalux</a></li>
                         </ul>
                     </div>
                     <div class="blog-content">
@@ -874,11 +874,11 @@ ob_start();
                             <li class="admin"><i class="fi fi-rr-calendar"></i>25 Febrero 2022</li>
                             <li class="date"><i class="fi  fi-rr-user"></i>Roy Reyes</li>
                         </ul>
-                        <h3 class="blog-title"><a href="single-post.html">Luminarias LED la solución para el ahorro
+                        <h3 class="blog-title"><a href="iluminacion-led-solucion-ahorro-energetico.php">Luminarias LED la solución para el ahorro
                                 energético</a>
                         </h3>
                         <div class="blog-btn">
-                            <a href="single-post.html">
+                            <a href="iluminacion-led-solucion-ahorro-energetico.php">
                                 <span class="btn-text">
                                     Leer más
                                 </span>
@@ -889,9 +889,9 @@ ob_start();
                 </div>
                 <div class="blog-item">
                     <div class="image-wrap">
-                        <a href="single-post.html"><img src="assets/images/blog/style1/3.jpg" alt=""></a>
+                        <a href="como-iluminar-tu-hogar-utilizando-los-focos-led.php"><img src="assets/images/blog/style1/3.jpg" alt=""></a>
                         <ul class="post-categories">
-                            <li><a href="blog-single.html">Shalux</a></li>
+                            <li><a href="como-iluminar-tu-hogar-utilizando-los-focos-led.php">Shalux</a></li>
                         </ul>
                     </div>
                     <div class="blog-content">
@@ -899,10 +899,10 @@ ob_start();
                             <li class="admin"><i class="fi fi-rr-calendar"></i>17 Marzo 2022</li>
                             <li class="date"><i class="fi  fi-rr-user"></i>Roy Reyes</li>
                         </ul>
-                        <h3 class="blog-title"><a href="single-post.html">Cómo iluminar tu casa utilizando las
+                        <h3 class="blog-title"><a href="como-iluminar-tu-hogar-utilizando-los-focos-led.php">Cómo iluminar tu casa utilizando las
                                 luminarias LED</a></h3>
                         <div class="blog-btn">
-                            <a href="single-post.html">
+                            <a href="como-iluminar-tu-hogar-utilizando-los-focos-led.php">
                                 <span class="btn-text">
                                     Leer más
                                 </span>
@@ -913,9 +913,9 @@ ob_start();
                 </div>
                 <div class="blog-item">
                     <div class="image-wrap">
-                        <a href="single-post.html"><img src="assets/images/blog/style1/4.jpg" alt=""></a>
+                        <a href="iluminacion-de-oficinas.php"><img src="assets/images/blog/style1/4.jpg" alt=""></a>
                         <ul class="post-categories">
-                            <li><a href="blog-single.html">Shalux</a></li>
+                            <li><a href="iluminacion-de-oficinas.php">Shalux</a></li>
                         </ul>
                     </div>
                     <div class="blog-content">
@@ -923,10 +923,10 @@ ob_start();
                             <li class="admin"><i class="fi fi-rr-calendar"></i>21 Abril 2022</li>
                             <li class="date"><i class="fi  fi-rr-user"></i>Roy Reyes</li>
                         </ul>
-                        <h3 class="blog-title"><a href="single-post.html">Consejos Para Una Mejor Iluminación De
+                        <h3 class="blog-title"><a href="iluminacion-de-oficinas.php">Consejos Para Una Mejor Iluminación De
                                 Oficinas</a></h3>
                         <div class="blog-btn">
-                            <a href="single-post.html">
+                            <a href="iluminacion-de-oficinas.php">
                                 <span class="btn-text">
                                     Leer más
                                 </span>
@@ -937,9 +937,9 @@ ob_start();
                 </div>
                 <div class="blog-item">
                     <div class="image-wrap">
-                        <a href="single-post.html"><img src="assets/images/blog/style1/5.jpg" alt=""></a>
+                        <a href="ilumina-tienda-comercial-genera-mas-ventas.php"><img src="assets/images/blog/style1/5.jpg" alt=""></a>
                         <ul class="post-categories">
-                            <li><a href="blog-single.html">Shalux</a></li>
+                            <li><a href="ilumina-tienda-comercial-genera-mas-ventas.php">Shalux</a></li>
                         </ul>
                     </div>
                     <div class="blog-content">
@@ -947,11 +947,11 @@ ob_start();
                             <li class="admin"><i class="fi fi-rr-calendar"></i>30 Julio 2022</li>
                             <li class="date"><i class="fi  fi-rr-user"></i>Roy Reyes</li>
                         </ul>
-                        <h3 class="blog-title"><a href="single-post.html">Ilumina tu tienda comercial y genera más
+                        <h3 class="blog-title"><a href="ilumina-tienda-comercial-genera-mas-ventas.php">Ilumina tu tienda comercial y genera más
                                 ventas
                             </a></h3>
                         <div class="blog-btn">
-                            <a href="single-post.html">
+                            <a href="ilumina-tienda-comercial-genera-mas-ventas.php">
                                 <span class="btn-text">
                                     Leer más
                                 </span>
@@ -962,9 +962,9 @@ ob_start();
                 </div>
                 <div class="blog-item">
                     <div class="image-wrap">
-                        <a href="single-post.html"><img src="assets/images/blog/style1/6.jpg" alt=""></a>
+                        <a href="como-iluminar-correctamente-zonas-de-paso-en-el-exterior.php"><img src="assets/images/blog/style1/6.jpg" alt=""></a>
                         <ul class="post-categories">
-                            <li><a href="blog-single.html">Shalux</a></li>
+                            <li><a href="como-iluminar-correctamente-zonas-de-paso-en-el-exterior.php">Shalux</a></li>
                         </ul>
                     </div>
                     <div class="blog-content">
@@ -972,11 +972,11 @@ ob_start();
                             <li class="admin"><i class="fi fi-rr-calendar"></i>07 Octubre 2022</li>
                             <li class="date"><i class="fi  fi-rr-user"></i>Roy Reyes</li>
                         </ul>
-                        <h3 class="blog-title"><a href="single-post.html">Cómo iluminar correctamente zonas de paso en
+                        <h3 class="blog-title"><a href="como-iluminar-correctamente-zonas-de-paso-en-el-exterior.php">Cómo iluminar correctamente zonas de paso en
                                 el exterior
                             </a></h3>
                         <div class="blog-btn">
-                            <a href="single-post.html">
+                            <a href="como-iluminar-correctamente-zonas-de-paso-en-el-exterior.php">
                                 <span class="btn-text">
                                     Leer más
                                 </span>

@@ -8,7 +8,7 @@ ob_start();
 <section>
 
 			<!-- Breadcrumbs Start -->
-			<div class="rs-breadcrumbs img1">
+			<div class="rs-breadcrumbs img10">
 			    <div class="container">
 			        <div class="breadcrumbs-inner">
 			            <h1 class="page-title">
@@ -33,7 +33,7 @@ ob_start();
 							   <div class="about-widget wow fadeInUp">
 								   <div class="services-item">
 								   		<div class="services-icon">
-								   			<img src="assets/images/about/style4/about-icon.png" alt="">
+								   			<img src="assets/images/calidad.png" alt="Empresa de iluminación desde 2001">
 								   		</div>
 								   		<div class="services-content">
 							   			   <h2 class="services-desc">
@@ -234,71 +234,80 @@ Nuestros productos destacan por su calidad, durabilidad y eficiencia. Esto nos p
 			</div>
 			<!-- Contact End -->
 
-			<!-- Partner Start -->
-			<div class="rs-partner partner-main-home partner-style2 pt-45 pb-45">
-			    <div class="container">               
-			        <div class="rs-carousel owl-carousel" 
-			            data-loop="true" 
-			            data-items="5" 
-			            data-margin="30" 
-			            data-autoplay="true" 
-			            data-hoverpause="true" 
-			            data-autoplay-timeout="5000" 
-			            data-smart-speed="800" 
-			            data-dots="false" 
-			            data-nav="false" 
-			            data-nav-speed="false" 
-
-			            data-md-device="5" 
-			            data-md-device-nav="false" 
-			            data-md-device-dots="false" 
-			            data-center-mode="false"
-
-			            data-ipad-device2="3" 
-			            data-ipad-device-nav2="false" 
-			            data-ipad-device-dots2="false"
-
-			            data-ipad-device="3" 
-			            data-ipad-device-nav="false" 
-			            data-ipad-device-dots="false" 
-
-			            data-mobile-device="2" 
-			            data-mobile-device-nav="false" 
-			            data-mobile-device-dots="false">  
-			            <div class="logo-img">
-			                <a href="https://devsdesign.net/">
-			                    <img class="hovers-logos rs-grid-img" src="assets/images/partner/1.png" title="" alt="">
-			                    <img class="mains-logos rs-grid-img " src="assets/images/partner/1.png" title="" alt="">
-			                </a>
-			            </div>
-			            <div class="logo-img">
-			                <a href="https://devsdesign.net/">
-			                    <img class="hovers-logos rs-grid-img" src="assets/images/partner/2.png" title="" alt="">
-			                    <img class="mains-logos rs-grid-img " src="assets/images/partner/2.png" title="" alt="">
-			                </a>
-			            </div>
-			            <div class="logo-img">
-			                <a href="https://devsdesign.net/">
-			                    <img class="hovers-logos rs-grid-img" src="assets/images/partner/3.png" title="" alt="">
-			                    <img class="mains-logos rs-grid-img " src="assets/images/partner/3.png" title="" alt="">
-			                </a>
-			            </div>
-			            <div class="logo-img">
-			                <a href="https://devsdesign.net/">
-			                    <img class="hovers-logos rs-grid-img" src="assets/images/partner/4.png" title="" alt="">
-			                    <img class="mains-logos rs-grid-img " src="assets/images/partner/4.png" title="" alt="">
-			                </a>
-			            </div>
-			            <div class="logo-img">
-			                <a href="https://devsdesign.net/">
-			                    <img class="hovers-logos rs-grid-img" src="assets/images/partner/5.png" title="" alt="">
-			                    <img class="mains-logos rs-grid-img " src="assets/images/partner/5.png" title="" alt="">
-			                </a>
-			            </div>
-			        </div>
-			    </div>
-			</div>
-			<!-- Partner End -->
+    <!-- Partner Start -->
+    <div class="rs-partner partner-main-home partner-style3 pt-45 pb-45">
+        <div class="container">
+            <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true"
+                data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false"
+                data-nav="false" data-nav-speed="false" data-md-device="5" data-md-device-nav="false"
+                data-md-device-dots="false" data-center-mode="false" data-ipad-device2="3" data-ipad-device-nav2="false"
+                data-ipad-device-dots2="false" data-ipad-device="3" data-ipad-device-nav="false"
+                data-ipad-device-dots="false" data-mobile-device="2" data-mobile-device-nav="false"
+                data-mobile-device-dots="false">
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/1.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/1.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/2.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/2.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/3.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/3.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/4.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/4.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/5.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/5.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/6.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/6.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/7.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/7.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/8.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/8.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/9.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/9.png" title="" alt="">
+                    </a>
+                </div>
+                <div class="logo-img">
+                    <a>
+                        <img class="hovers-logos rs-grid-img" src="assets/images/partner/10.png" title="" alt="">
+                        <img class="mains-logos rs-grid-img " src="assets/images/partner/10.png" title="" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Partner End -->
 
 
 

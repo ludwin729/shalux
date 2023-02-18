@@ -16,7 +16,6 @@ $pagina = isset($pagina) ? $pagina : "";
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon -->
-    <link rel="apple-touch-icon" href="apple-touch-icon.html">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
     <!-- Bootstrap v4.4.1 css -->
     <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
@@ -111,11 +110,11 @@ $pagina = isset($pagina) ? $pagina : "";
                                 <div class="main-menu">
                                     <nav class="rs-menu hidden-md">
                                         <ul class="nav-menu">
-                                            <li class="menu-item-has-children current-menu-item">
+                                            <li>
                                                 <a href="index.php">Inicio</a>
 
                                             </li>
-                                            <li class="menu-item-has-children">
+                                            <li>
                                                 <a href="nosotros.php">Nosotros</a>
                                             </li>
                                             <li class="menu-item-has-children">
@@ -131,15 +130,11 @@ $pagina = isset($pagina) ? $pagina : "";
                                                             Industriales</a></li>
                                                 </ul>
                                             </li>
-                                            <li class="menu-item-has-children">
+                                            <li >
                                                 <a href="clientes.php">Clientes</a>
                                             </li>
-                                            <li class="menu-item-has-children">
+                                            <li>
                                                 <a href="blog.php">Blog</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="blog.php">Blog</a></li>
-                                                    <li><a href="single-post.html">Single Post</a></li>
-                                                </ul>
                                             </li>
                                             <li>
                                                 <a href="contacto.php">Contacto</a>
@@ -183,7 +178,7 @@ $pagina = isset($pagina) ? $pagina : "";
                         <a href="index.php">Inicio</a>
                     </li>
                     <li class="menu-item-has-children">
-                        <a href="nosotros.php">Nosotros</a>
+                        <a href="nosotros.php ">Nosotros</a>
                     </li>
                     <li class="menu-item-has-children">
                         <a href="productos.php">Productos</a>
