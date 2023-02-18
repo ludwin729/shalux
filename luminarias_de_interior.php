@@ -240,7 +240,7 @@ ob_start();
                                     <h3 class="title">OCTALED 9W LUZ ROJA</h3>
                                 </div>
                                 <p class="services-txt">
-                                Luz Roja
+                                    Luz Roja
                                     <br>
                                     Voltaje: 100 – 240V
                                     <br>
@@ -266,7 +266,7 @@ ob_start();
                                     <h3 class="title">OCTALED 9W LUZ VERDE</h3>
                                 </div>
                                 <p class="services-txt">
-                                Luz Verde
+                                    Luz Verde
                                     <br>
                                     Voltaje: 100 – 240V
                                     <br>
@@ -316,9 +316,9 @@ ob_start();
                                     <h3 class="title2">OCTALED 9W CAMBIO DE TONALIDAD 120°</h3>
                                 </div>
                                 <p class="services-txt">
-Lumenes: 720<br>
-Luz día: 6500K SMD
-<br>
+                                    Lumenes: 720<br>
+                                    Luz día: 6500K SMD
+                                    <br>
                                     Voltaje: 100 – 240V<br>
                                     IP: 20<br>
                                 </p>
@@ -628,7 +628,7 @@ Luz día: 6500K SMD
                                     <h3 class="title">SPACE LIGHT 30W</h3>
                                 </div>
                                 <p class="services-txt">
-                                    Lumenes:  2 700 <br>
+                                    Lumenes: 2 700 <br>
                                     T° Color: 3000K – 6500K<br>
                                     Voltaje: 100 – 240V<br>
                                     IP: 20<br>
@@ -652,7 +652,7 @@ Luz día: 6500K SMD
                                     <h3 class="title">STAR LIGHT 30W</h3>
                                 </div>
                                 <p class="services-txt">
-                                    Lumenes:  2 700 <br>
+                                    Lumenes: 2 700 <br>
                                     T° Color: 3000K – 6500K<br>
                                     Voltaje: 100 – 240V<br>
                                     IP: 20<br>
@@ -820,7 +820,7 @@ Luz día: 6500K SMD
                                     <h3 class="title2">Panel LED para Empotrar 30x120cm 48W</h3>
                                 </div>
                                 <p class="services-txt">
-                                    Lumenes:  3850 <br>
+                                    Lumenes: 3850 <br>
                                     T° Color: 3000K – 6500K<br>
                                     Voltaje: 100 – 240V<br>
                                     IP: 20<br>
@@ -892,7 +892,7 @@ Luz día: 6500K SMD
                                     <h3 class="title2">Foco premium Dicroico Socket Gu10 LED 6W</h3>
                                 </div>
                                 <p class="services-txt">
-                                    Lumenes: 450  <br>
+                                    Lumenes: 450 <br>
                                     T° Color: 3000K – 6500K<br>
                                     Voltaje: 100 – 240V<br>
                                     IP: 20<br>
@@ -965,7 +965,7 @@ Luz día: 6500K SMD
                                 </div>
                                 <p class="services-txt">
                                     Lumenes: 1600 <br>
-                                    T° Color:  6000K<br>
+                                    T° Color: 6000K<br>
                                     Voltaje: 100 – 240V<br>
                                     IP: 20<br>
                                 </p>
@@ -1010,7 +1010,7 @@ Luz día: 6500K SMD
                             <div class="services-text">
                                 <div class="services-title">
                                     <h3 class="title2">Spot LED
-para Adosar 3X7W </h3>
+                                        para Adosar 3X7W </h3>
                                 </div>
                                 <p class="services-txt">
                                     Lumenes: 1575 <br>
@@ -1049,9 +1049,6 @@ para Adosar 3X7W </h3>
 
 
 </section>
-
-
-
 
 
 

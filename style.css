@@ -3034,6 +3034,16 @@ body .search-modal .close:hover {
   z-index: 1;
   margin-bottom: 0;
 }
+.rs-breadcrumbs .breadcrumbs-inner .blog-title {
+  font-size: 48px;
+  line-height: 58px;
+  font-weight: 700;
+  color: #ffffff;
+  text-shadow: 1px 1px 34px black;
+  position: relative;
+  z-index: 1;
+  margin-bottom: 0;
+}
 .rs-breadcrumbs .breadcrumbs-inner .page-title:after {
   content: "";
   position: absolute;
@@ -3102,6 +3112,28 @@ body .search-modal .close:hover {
 .rs-breadcrumbs.img5 {
   background: url(assets/images/breadcrumbs/inr-5.jpg);
 }
+.rs-breadcrumbs.img6 {
+  background: url("assets/images/blog/post/colores2.png");
+}
+.rs-breadcrumbs.img7 {
+  background: url("assets/images/blog/post/iluminacion_led.jpg");
+}
+.rs-breadcrumbs.img8 {
+  background: url("assets/images/blog/post/sala.jpg");
+}
+.rs-breadcrumbs.img9 {
+  background: url("assets/images/blog/post/Ilumina-tu-tienda.jpg");
+}
+.rs-breadcrumbs.img10 {
+  background: url("assets/images/blog/post/12_NeondeLuz2Office.jpg");
+}
+.rs-breadcrumbs.img11 {
+  background: url("assets/images/blog/post/zonas-del-exterior2.jpg");
+}
+.rs-breadcrumbs.img12 {
+  background: url("assets/images/blog/post/iluminacion-sala.jpeg");
+}
+
 /* ------------------------------------
 	07. Banner Section CSS
 ---------------------------------------*/
@@ -6675,6 +6707,13 @@ Video CSS
 }
 .rs-inner-blog .blog-details .blog-full .blog-content-full .title {
   font-size: 28px;
+  line-height: 32px;
+  font-weight: 700;
+  color: #0a0a0a;
+  margin: 0;
+}
+.rs-inner-blog .blog-details .blog-full .blog-content-full .sub-title {
+  font-size: 20px;
   line-height: 32px;
   font-weight: 700;
   color: #0a0a0a;

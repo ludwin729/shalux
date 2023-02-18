@@ -3,24 +3,24 @@ $pagina = basename(__FILE__);
 //$classBody = "contact-pg";
 $page_title = "Shalux Lighting | Lo mejor en iluminación";
 ob_start();
-?>	
+?>
 
 
 <section>
-			<!-- Breadcrumbs Start -->
-			<div class="rs-breadcrumbs img1">
-			    <div class="container">
-			        <div class="breadcrumbs-inner">
-			            <h1 class="page-title">
-                        Luminarias LED Industriales
-			            </h1>
-			            <div class="description">
-                    		<p> Aquí podras ver algunos de nuestros modelos de Luminarias LED Industriales</p>
-                    	</div>                       
-			        </div>
-			    </div>
-			</div>
-			<!-- Breadcrumbs End -->
+    <!-- Breadcrumbs Start -->
+    <div class="rs-breadcrumbs img1">
+        <div class="container">
+            <div class="breadcrumbs-inner">
+                <h1 class="page-title">
+                    Luminarias LED Industriales
+                </h1>
+                <div class="description">
+                    <p> Aquí podras ver algunos de nuestros modelos de Luminarias LED Industriales</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Breadcrumbs End -->
     <!-- Product Section Start -->
     <div class="rs-services services-style1 services-inner-style1 pt-50 pb-50 ">
         <div class="sec-title text-center">
@@ -31,7 +31,7 @@ ob_start();
         <!-- Product Section Start -->
         <div id="jar" class="rs-services services-style1 services-inner-style1 pt-50 pb-50 ">
             <div class="container">
-            <div class="row y-middle">
+                <div class="row y-middle">
                     <div class="col-lg-3 col-md-6 mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
@@ -39,11 +39,39 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">LED HIGH BAY 100W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 9 000 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 65 <br>
+                                    <br>
+                                </p>
+                                <div class="services-btn">
+                                    <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
+                                        <span class="btn-text">
+                                            Cotizar
+                                        </span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 mb-30 contenido" item>
+                        <div class="services-item">
+                            <div class="services-images">
+                                <img class="main-img" src="assets/images/productos/lum_ind/highbay.jpg" alt="">
+                            </div>
+                            <div class="services-text">
+                                <div class="services-title">
+                                    <h3 class="title">LED HIGH BAY 200W</h3>
+                                </div>
+                                <p class="services-txt">
+                                    Lumenes: 18 000 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 65 <br><br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -60,11 +88,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Downlight COB 60W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 4 800 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 20 <br><br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -81,11 +112,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning 18</h3>
+                                    <h3 class="title">Downlight PRO SERIES 25W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 2 400 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 20 <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -102,11 +136,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">Downlight STANDARD 25W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 2 200 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 20 <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -119,16 +156,18 @@ ob_start();
                     <div class="col-lg-3 col-md-6 md-mb-30 contenido" item>
                         <div class="services-item">
                             <div class="services-images">
-                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/1.jpg"
-                                    alt="">
+                                <img class="main-img" src="assets/images/productos/lum_ind/EMERGENCIA/1.jpg" alt="">
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">SMD 12W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 1 000 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 20 <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -145,11 +184,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">SMD 6W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 600 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 20 <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -166,11 +208,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">URBANA 12W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 800 <br>
+                                    T° Color: 6500K <br>
+                                    Voltaje: 100-240V <br>
+                                    IP: 20 <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
