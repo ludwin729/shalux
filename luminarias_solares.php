@@ -11,7 +11,7 @@ ob_start();
         <div class="container">
             <div class="breadcrumbs-inner">
                 <h1 class="page-title">
-                Luminarias LED Solares
+                    Luminarias LED Solares
                 </h1>
                 <div class="description">
                     <p> Aquí podras ver algunos de nuestros modelos de Luminarias LED Solares</p>
@@ -38,11 +38,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">SOLAR 200W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 800 <br>
+                                    T° Color: 6500K <br>
+                                    Bateria: 12000mAh <br>
+                                    IP: 65 <br> <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -59,11 +62,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">SOLAR 300W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 1 200 <br>
+                                    T° Color: 6500K <br>
+                                    Bateria: 18000mAh <br>
+                                    IP: 65 <br> <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -80,11 +86,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning 18</h3>
+                                    <h3 class="title">SOLAR 400W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 2 600 <br>
+                                    T° Color: 6500K <br>
+                                    Bateria: 24000mAh <br>
+                                    IP: 65 <br> <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -101,11 +110,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">SOLAR 600W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 3 200 <br>
+                                    T° Color: 6500K <br>
+                                    Bateria: 36000mAh <br>
+                                    IP: 65 <br> <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -123,11 +135,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">SUNSHINE 400W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 3 000 <br>
+                                    T° Color: 6500K <br>
+                                    Batería: 48000mAh/3.2V <br>
+                                    IP: 65 <br> <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -144,11 +159,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">DOMINUS 300W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 1 300 <br>
+                                    T° Color: 6500K <br>
+                                    Bateria: 15000mAh/3.2V<br>
+                                    IP: 65 <br> <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
@@ -165,11 +183,14 @@ ob_start();
                             </div>
                             <div class="services-text">
                                 <div class="services-title">
-                                    <h3 class="title">Covid-19 Cleaning</h3>
+                                    <h3 class="title">DOMINUS 400W</h3>
                                 </div>
-                                <p class="services-txt">Potencia: 9W <br>Voltaje: 220V<br>T° Color: 3000 /
-                                    6500°K<br>Lúmenes:
-                                    940lm</p>
+                                <p class="services-txt">
+                                    Lumenes: 2 200 <br>
+                                    T° Color: 6500K <br>
+                                    Bateria: 20000mAh/3.2V<br>
+                                    IP: 65 <br> <br>
+                                </p>
                                 <div class="services-btn">
                                     <a href="https://wa.me/+51946574347" target="_blank"><i class="fa fa-whatsapp"></i>
                                         <span class="btn-text">
