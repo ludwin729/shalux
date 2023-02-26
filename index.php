@@ -198,7 +198,7 @@ ob_start();
                         <img src="assets/images/about/style3/about-3.jpg" alt="About">
                         <div class="about-widget">
                             <div class="counter-part">
-                                <div class="rs-count plus">20</div>
+                                <div class="rs-count plus">15</div>
                                 <p class="title">Años de Experiencia</p>
                             </div>
                         </div>

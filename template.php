@@ -58,6 +58,43 @@ $pagina = isset($pagina) ? $pagina : "";
 
 </head>
 
+<script>
+    var url = 'assets/js/widget.js';
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = url;
+    var options = {
+  "enabled":true,
+  "chatButtonSetting":{
+      "backgroundColor":"#4dc247",
+      "ctaText":"Chat",
+      "borderRadius":"50",
+      "marginLeft":"8",
+      "marginBottom":"40",
+      "marginRight":"50",
+      "position":"left"
+  },
+  "brandSetting":{
+      "brandName":"Shalux Lighting",
+      "brandSubTitle":"Expertos en iluminación",
+      "brandImg":"https://scontent.flim28-1.fna.fbcdn.net/v/t39.30808-6/304775814_571180211464150_1185454927635185273_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHszPpxiYAPj_q2HMIMXJyolOWGguuNFT-U5YaC640VP7xNjVK7TZJgHrQPE64il1YRnyjwTbJSEPguDALmgvAg&_nc_ohc=8wiWHtcpW3YAX8oO2g1&_nc_ht=scontent.flim28-1.fna&oh=00_AfAVJ9yetd7kd6a7-jxCLxl1ZmcYeNdcguS-m5VBzO6xEA&oe=63F6A39C",
+      "welcomeText":"Hola!\n¿En que puedo ayudarte?",
+      "messageText":"Hola, saludos me gustaría cotizar",
+      "backgroundColor":"#0a5f54",
+      "ctaText":"Iniciar Chat",
+      "borderRadius":"25",
+      "autoShow":false,
+      "phoneNumber":"51946574347"
+  }
+};
+    s.onload = function() {
+        CreateWhatsappChatWidget(options);
+    };
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+</script>
+
 <body class="home-green-color">
 
     <div class="full-width-header">
@@ -87,13 +124,13 @@ $pagina = isset($pagina) ? $pagina : "";
                         <div class="col-lg-4 text-right">
                             <div class="toolbar-sl-share">
                                 <ul>
-                                    <li class="opening"> <em><i class="fi fi-rr-time-add"></i> 08:00 - 20:00</em>
+                                    <li class="opening"> <em><i class="fi fi-rr-time-add"></i> 08:00 - 19:00</em>
                                     </li>
-                                    <li><a href="https://www.facebook.com/ShaLuxLighting/"><i
+                                    <li><a href="https://www.facebook.com/ShaLuxLighting/" target="_blank"><i
                                                 class="fa fa-facebook"></i></a></li>
-                                    <li><a href="https://www.instagram.com/shaluxlighting/"><i
+                                    <li><a href="https://www.instagram.com/shaluxlighting/" target="_blank"><i
                                                 class="fa fa-instagram"></i></a></li>
-                                    <li><a href="https://wa.me/+51946574347" target="_blank"><i
+                                    <li><a href="https://wa.me/+51946574347" target="_blank" target="_blank"><i
                                                 class="fa fa-whatsapp"></i></a></li>
                                 </ul>
                             </div>
@@ -293,15 +330,15 @@ $pagina = isset($pagina) ? $pagina : "";
                                     <li>
                                         <i class="fi fi-rr-time-add"></i>
                                         <div class="desc">
-                                            08:00am-8:00pm
+                                            08:00am-7:00pm
                                         </div>
                                     </li>
                                     <ul class="footer-social">
-                                        <li><a href="https://www.facebook.com/ShaLuxLighting/"><i
+                                        <li><a href="https://www.facebook.com/ShaLuxLighting/" target="_blank"><i
                                                     class="fa fa-facebook"></i></a></li>
-                                        <li><a href="https://www.instagram.com/shaluxlighting/"><i
+                                        <li><a href="https://www.instagram.com/shaluxlighting/" target="_blank"><i
                                                     class="fa fa-instagram"></i></a></li>
-                                        <li><a href="https://wa.me/+51946574347" target="_blank"><i
+                                        <li><a href="https://wa.me/+51946574347" target="_blank" target="_blank"><i
                                                     class="fa fa-whatsapp"></i></a></li>
                                     </ul>
                                 </ul>

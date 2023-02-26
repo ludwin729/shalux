@@ -476,7 +476,7 @@ ul.dot-list.yellow-dot.services-list li {
   margin-top: 8px;
 }
 .brush-list li:before {
-  content: "\f13f";
+  content: "✔";
   font-size: 18px;
   color: #0960b8;
   margin: 0;
@@ -3147,7 +3147,7 @@ body .search-modal .close:hover {
   background: url(assets/images/iluminacion-led-de-almacen.png);
 }
 .rs-breadcrumbs.img17 {
-  background: url(assets/images/iluminacion-carreteras-1177-1.jpg);
+  background: url(assets/images/iluminacion-carreteras-1177-1.png);
 }
 .rs-breadcrumbs.img18 {
   background: url(assets/images/2411077434_58d2d7bd31_b.jpg);

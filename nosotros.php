@@ -185,7 +185,7 @@ Nuestros productos destacan por su calidad, durabilidad y eficiencia. Esto nos p
 	                                            <div class="form-group mb-0">
 	                                            	<p class="submit-btn submit-btn2">
 		                                                <span class="arrow-btn">
-		                                                	<input type="submit" value="Submir ahora">
+		                                                	<input type="submit" value="Subir ahora">
 		                                                </span>
 	                                            	</p>
 	                                            </div>
